@@ -39,6 +39,12 @@ Deixo aqui meus agradecimentos ao **Alexandre Ballestero**, ao **Fábio Baldin**
 
 ---
 
+![Renato palestrando 1](img/sast-dast-05.jpg)
+
+![Renato palestrando 2](img/sast-dast-12.jpg)
+
+![Renato palestrando 3](img/sast-dast-01.jpg)
+
 ![Banner](img/banner-devpira-2025.jpg)
 
 ![Site 1](img/site-01.png)
