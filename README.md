@@ -25,7 +25,7 @@ Título da apresentação: **Detectando Vulnerabilidades em Aplicações - Imple
 
 Data: **06/12/2025 (sábado)**
 
-Tecnologias e tópicos abordados: **Containers, Docker, Kubernetes, .NET, ASP.NET Core, Linux, GitHub Actions, Azure DevOps...**
+Tecnologias e tópicos abordados: **Containers, Docker, Kubernetes, .NET, ASP.NET Core, Linux, GitHub Actions, Azure DevOp, Docker Scout, Trivy, KICS, Checkov, APIsec Scanner, ZAP, Snyk, Veracode, Checkmarx...**
 
 Número de participantes: **40 pessoas (estimativa)**
 
