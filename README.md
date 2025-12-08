@@ -52,3 +52,5 @@ Deixo aqui meus agradecimentos ao **Alexandre Ballestero**, ao **Fábio Baldin**
 ![Site 1](img/site-01.png)
 
 ![Site 2](img/site-02.png)
+
+Todas as fotos podem ser encontradas neste link [link](img/).
