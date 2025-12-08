@@ -39,4 +39,4 @@ Deixo aqui meus agradecimentos ao **Alexandre Ballestero**, ao **Fábio Baldin**
 
 ---
 
-[Banner](img/banner-devpira-2025.jpg)
+![Banner](img/banner-devpira-2025.jpg)
