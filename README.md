@@ -25,7 +25,7 @@ Título da apresentação: **Detectando Vulnerabilidades em Aplicações - Imple
 
 Data: **06/12/2025 (sábado)**
 
-Tecnologias e tópicos abordados: **SAST (Static Application Security Testing), DAST (Dynamic Application Security Testing), Cybersecurity, DevSecOps, Containers, Docker, Kubernetes, .NET, ASP.NET Core, Linux, GitHub Actions, Azure DevOp, Docker Scout, Trivy, KICS, Checkov, APIsec Scanner, ZAP, Snyk, Veracode, Checkmarx...**
+Tecnologias e tópicos abordados: **SAST (Static Application Security Testing), DAST (Dynamic Application Security Testing), Cybersecurity, DevSecOps, Containers, Docker, Kubernetes, .NET, ASP.NET Core, Linux, GitHub Actions, Azure DevOps, Docker Scout, Trivy, KICS, Checkov, APIsec Scanner, ZAP, Snyk, Veracode, Checkmarx...**
 
 Número de participantes: **40 pessoas (estimativa)**
 
